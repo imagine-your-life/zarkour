@@ -71,7 +71,7 @@ function hareketEt() {
 }
 
 function gameOver() {
-    alert("Oyun bitti! Skor: " + skor);
+    alert("Game over! Score: " + skor);
     window.location.reload();
 }
 
