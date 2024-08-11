@@ -6,10 +6,14 @@ body {
     overflow: hidden;
 }
 
-.logo-img {
+h1 {
     text-align: center;
-    width: 30px;
-    height: auto;
+}
+
+.logo-img {
+    align-self: center;
+    height: 50px;
+    width: auto;
 }
 
 .buton {
